@@ -1,2 +1,2 @@
-# transcriptional_dynamics_in_hepatic_fibrosis
-This repository comprises scripts used to produce the results displayed in Terkelsen et al. 
+# Transcriptional dynamics of hepatic sinusoid-associated cells after injury
+This repository comprises python and r scripts created to produce the results displayed in Terkelsen et al. 
